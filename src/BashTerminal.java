@@ -1,10 +1,3 @@
-/*
- * Andrew Ferruzza
- * STUDENT ID : 111616974
- * HW 5 : Bash Shell
- * 
- * MAIN class
- */
 import java.util.*;
 public class BashTerminal {
 	
