@@ -1,10 +1,3 @@
-/*
- * Andrew Ferruzza
- * STUDENT ID : 111616974
- * HW 5 : Bash Shell
- * 
- * DirectoryTree class
- */ 
 public class DirectoryTree {
 
 	private DirectoryNode root;
